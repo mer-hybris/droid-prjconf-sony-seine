@@ -1,4 +1,4 @@
 # device-specific project conf:
-Prefer: droid-hal-kirin-devel
+Prefer: droid-hal-pdx201-devel
 Prefer: ohm-configs-default
 
